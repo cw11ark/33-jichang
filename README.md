@@ -2,7 +2,7 @@
 
 > **一句话评价：先判断是否适合：香港GCP/AWS与美国Cloudflare入口，提供月流量和年度总量档。**
 >
-> 👉 **[官网注册](https://ncdn1.sntp.uk/auth/register?code=Q8VZCRXT)** · 建议从 轻量套餐 的短周期开始，先核对客户端和常用节点。
+> 👉 **[官网注册](https://ncdn1.sntp.uk/auth/register?code=HxFxhdai)** · 建议从 轻量套餐 的短周期开始，先核对客户端和常用节点。
 >
 
 >
@@ -55,7 +55,7 @@
 
 ## 注册
 
-👉 **[前往守候网络注册页面](https://ncdn1.sntp.uk/auth/register?code=Q8VZCRXT)** · 付款前逐项核对当前套餐名、周期、流量与使用限制。
+👉 **[前往守候网络注册页面](https://ncdn1.sntp.uk/auth/register?code=HxFxhdai)** · 付款前逐项核对当前套餐名、周期、流量与使用限制。
 
 ## 更新
 
